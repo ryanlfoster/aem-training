@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Maven Training Package</comment>
+<entry key="createdBy">mohican</entry>
+<entry key="name">maven-training-content</entry>
+<entry key="created">2014-07-16T11:24:28.269-0500</entry>
+<entry key="groupId">com.lampo</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Lampo</entry>
+<entry key="description">Maven Multimodule project for Maven Training.</entry>
+<entry key="artifactId">maven-training-content</entry>
+<entry key="path">/etc/packages/Lampo/maven-training-content.zip</entry>
+</properties>
